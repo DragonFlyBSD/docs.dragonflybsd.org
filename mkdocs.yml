@@ -49,8 +49,9 @@ nav:
     - Downloading: user-guide/download.md
     - Installation: user-guide/install.md
     - Configuration: user-guide/config.md
-  - Next steps:
     - Installing software: user-guide/install-software.md
+  - Next steps:
+    - Virtualization: extras/virtualization.md
   - More documentation:
     - Manual pages: man-pages.md
   - About: about.md
