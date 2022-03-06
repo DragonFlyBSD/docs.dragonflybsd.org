@@ -28,7 +28,7 @@ The complete list of mirrors is [here](https://www.dragonflybsd.org/mirrors/).
 
 Select the version you want to want to download, according to your needs:
 
-[RELEASE 6.0.1 ISO (bz2) :fontawesome-solid-download:](https://avalon.dragonflybsd.org/iso-images/dfly-x86_64-6.0.1_REL.iso.bz2){ .md-button .md-button--primary } [RELEASE 6.0.1 IMG (bz2) :fontawesome-solid-download:](https://avalon.dragonflybsd.org/iso-images/dfly-x86_64-6.0.1_REL.img.bz2){ .md-button .md-button--primary }
+[RELEASE 6.2.1 ISO (bz2) :fontawesome-solid-download:](https://avalon.dragonflybsd.org/iso-images/dfly-x86_64-6.2.1_REL.iso.bz2){ .md-button .md-button--primary } [RELEASE 6.2.1 IMG (bz2) :fontawesome-solid-download:](https://avalon.dragonflybsd.org/iso-images/dfly-x86_64-6.2.1_REL.img.bz2){ .md-button .md-button--primary }
 
 MD5 sums for RELEASE are [here](https://avalon.dragonflybsd.org/iso-images/md5.txt).
 
