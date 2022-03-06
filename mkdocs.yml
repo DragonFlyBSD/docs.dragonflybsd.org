@@ -1,7 +1,7 @@
 site_name: DragonFly BSD documentation (BETA)
 site_url: https://docs.dragonflybsd.org
 
-repo_name: DragonFlyBSD/docs.dragonflybsd.org
+repo_name: DragonFlyBSD/DragonFlyBSD
 repo_url: https://github.com/DragonFlyBSD/DragonFlyBSD
 
 theme:
